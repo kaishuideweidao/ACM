@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555125987 source:d:\workspace\4homework_d\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<cstdio>
+	<iomanip>
+

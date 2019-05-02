@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525859756 source:d:\workspace\expriment5_1\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+

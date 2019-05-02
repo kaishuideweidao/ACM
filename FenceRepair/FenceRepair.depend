@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552891561 source:d:\workspace\fencerepair\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<queue>
+	<algorithm>
+

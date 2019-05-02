@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552908587 source:d:\workspace\2homework_f\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<algorithm>
+

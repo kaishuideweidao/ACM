@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553998948 source:d:\workspace\3homework_c\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
